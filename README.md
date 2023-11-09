@@ -1,6 +1,4 @@
-# hello-world 
----
-a place where you store ideas, resources, or even share and discuss things with others.
+# hello-world - a place where you store ideas, resources, or even share and discuss things with others.
 ---
 Hello, I am a 36 year old father of two girls:
 1. Ellie
